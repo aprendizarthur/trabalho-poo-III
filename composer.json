@@ -1,0 +1,15 @@
+{
+    "name": "arthu/trabalho-poo-iii",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arthur",
+            "email": "aprendizadoarthur@gmail.com"
+        }
+    ],
+    "require": {}
+}
