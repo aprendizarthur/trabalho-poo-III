@@ -2,7 +2,9 @@
     "name": "arthu/trabalho-poo-iii",
     "autoload": {
         "psr-4": {
-            "app\\": "app/"
+            "app\\classes\\": "app/classes/",
+            "app\\interfaces\\" : "app/interfaces/",
+            "app\\traits\\" : "app/traits/"
         }
     },
     "authors": [
